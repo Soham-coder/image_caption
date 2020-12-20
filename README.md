@@ -2,8 +2,8 @@
 
 # Image Captioning
 * Generate captions for images using CNN & LSTM on Flickr8K dataset.
-* This was done with Microsoft Caption Bot AI as inspiration. https://www.captionbot.ai/
-- Trained model is Model_9.h5.
+* Microsoft Caption Bot AI as inspiration. https://www.captionbot.ai/
+- Trained model - Model_9.h5.
 - Walkthrough of the whole code in ./Image Captioning/Image Captioning Project.ipynb
 - Screenshots of results gets stored in ./result_ml_caption  
 
@@ -23,7 +23,7 @@ pip3 install -r requirements.txt
 
 python3 app.py
 
-It will successfully run the ML Model on localhost 
+It will run the ML Model on localhost 
 
 Go to http://127.0.0.1:5000// on a browser 
 
